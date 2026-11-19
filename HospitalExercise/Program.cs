@@ -46,7 +46,7 @@ for (int i = 0; i < 11; i++)
     }
 }
 
-static void NextPatient(Queue priorityQueue, Queue normalQueue, ref int priorityCounter)
+void NextPatient(Queue priorityQueue, Queue normalQueue, ref int priorityCounter)
 {
     if (priorityCounter < 2 && !priorityQueue.EmptyQueue())
     {
