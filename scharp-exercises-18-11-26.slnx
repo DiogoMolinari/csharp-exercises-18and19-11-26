@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="HospitalExercise/HospitalExercise.csproj" Id="4170be4f-7ec6-4dc4-b86d-824715ccfa41" />
+  <Project Path="ListStructure/ListStructure.csproj" Id="1478ddd0-60ae-4d6d-9c5e-3689f2e8ed9f" />
   <Project Path="QueueInsertion/QueueInsertion.csproj" />
   <Project Path="Stacks/Stacks.csproj" Id="8baa14a9-576d-4af0-801b-942b48968716" />
 </Solution>
