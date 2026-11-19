@@ -1,0 +1,2 @@
+**Exercício 1:** No hospital "Só falta você", você foi contratado para gerenciar a ordem de atendimento do pronto socorro. Essa ordem segue a seguinte regra: para cada dois atendimentos da fila prioritária, um atendimento da fila normal é realizado. Faça um programa que gerencie essa fila usando senhas alfanuméricas como referência. Fila normal começa com N e tem um número aleatório na sequência. Fila prioritária começa com P e tem um número aleatório na sequência.
+
